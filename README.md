@@ -57,20 +57,29 @@ o	Filters and slicers for dynamic analysis
 
 •	File Format: Excel
 
-• Image: 
+• Image: <img width="1296" height="727" alt="Screenshot_1" src="https://github.com/user-attachments/assets/42c30e5e-d777-4dc5-a3fa-a991253908c2" />
+
 
 # 🔍 Key Insights
 •	76% of students are addicted to social media
+
 •	Average usage is 4.92 hours per day
+
 •	Highest addiction observed in 20–22 age group
+
 •	WhatsApp is the most used platform
+
 •	Single students show higher addiction levels
+
 •	Mental health varies by gender and relationship status
 
 # 🛠 Tools & Technologies
 •	Power BI
+
 •	DAX
+
 •	Excel / CSV
+
 •	Data Cleaning & Visualization Techniques
 
 # 🎯 Use Case
