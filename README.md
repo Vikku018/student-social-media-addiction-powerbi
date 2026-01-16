@@ -6,10 +6,10 @@ The dashboard is interactive and helps in identifying addiction trends and menta
 
 # 📂 Dataset
 •	Dataset Name: Student Social Media Addiction Dataset
-. Link: <a href="https://www.w3schools.com"></a>
-•	File Format: CSV / Excel
-•	Total Records: 705 students
-•	Data Type: Structured data
+
+•	Link: <a href="https://github.com/Vikku018/student-social-media-addiction-powerbi/blob/main/Students%20Social%20Media%20Addiction.xlsx">DataSet</a>
+
+•	File Format: Excel
 
 
 ________________________________________
