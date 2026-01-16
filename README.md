@@ -8,7 +8,7 @@ The dashboard is interactive and helps in identifying addiction trends and menta
 
 # ⚙️ Project Workflow
 The project was completed through the following stages:
-# # 1.	Data Preprocessing
+# #	Data Preprocessing
 o	Understanding dataset structure
 
 o	Verifying data types
