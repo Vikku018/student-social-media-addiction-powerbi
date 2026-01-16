@@ -69,7 +69,6 @@ The project was completed through the following stages:
 	- File Format: Excel
 
    - Dashboard: <img width="1296" height="727" alt="Screenshot_1" src="https://github.com/user-attachments/assets/42c30e5e-d777-4dc5-a3fa-a991253908c2" />
-                <img width="1272" height="713" alt="Screenshot_2" src="https://github.com/user-attachments/assets/a5e1618a-03f6-4f1b-bcef-246da906c60b" />
 
 
 
@@ -85,6 +84,9 @@ The project was completed through the following stages:
 	- Single students show higher addiction levels
 
 	- Mental health varies by gender and relationship status
+
+
+<img width="1272" height="713" alt="Screenshot_2" src="https://github.com/user-attachments/assets/a5e1618a-03f6-4f1b-bcef-246da906c60b" />	
 
 # 🛠 Tools & Technologies
 	- Power BI
