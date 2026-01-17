@@ -45,7 +45,7 @@ The project was completed through the following stages:
     
     - What is the number of students with social media addiction by age and gender?
     
-    - Distribution of mental health scores across different relationship status.
+    - Distribution of mental health scores across different relationship status?
     
     - Which five countries have the highest average addiction scores?
     
@@ -57,8 +57,11 @@ The project was completed through the following stages:
     
 ## Interactive slicers 
    - Age
+     
    - Gender
-   - Country,
+     
+   - Country
+     
    - Platform
    
 # 📂 Dataset & Screenshots
