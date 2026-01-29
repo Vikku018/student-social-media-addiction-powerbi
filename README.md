@@ -11,24 +11,24 @@ To enhance user experience, Sync Slicers are used to connect multiple dashboards
 
 # ⚙️ Project Workflow
 The project was completed through the following stages:
-## 1. Data Preprocessing
-	- Understanding dataset structure
+## 1️⃣ Data Preprocessing
+	- Understanding dataset structure and variables
 
 	- Verifying data types
-## 2.	Data Cleaning
+## 2️⃣	Data Cleaning
 	- Handling missing and duplicate values
 
 	- Renaming columns for better readability
 
-	- Standardizing categorical data
-## 3.	Data Transformation
+	- Standardizing categorical values (Gender, Relationship Status, Platforms, etc.)
+## 3️⃣	Data Transformation
 	- Creating calculated columns and measures
 
 	- Using DAX for KPIs and aggregation
-## 4.	Data Visualization
-	- Interactive dashboards
+## 4️⃣	Data Visualization
+	- Designing interactive dashboards
 
-	- Filters and slicers for dynamic analysis
+	- Using filters, slicers, and Sync Slicers for cross-page analysis
 
 # 📈 Dashboards & Visuals
 ## KPI Cards
@@ -40,7 +40,7 @@ The project was completed through the following stages:
     
     -  Total Addicted Students
 
-## Requirement
+#📊 **Business Requirements Addressed**
     - Distribution of students by mental health status and gender
     
     - Top 5 most-used social media platforms
