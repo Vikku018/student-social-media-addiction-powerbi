@@ -40,7 +40,7 @@ The project was completed through the following stages:
     
     -  Total Addicted Students
 
-#📊 **Business Requirements Addressed**
+# 📊 Business Requirements Addressed
     - Distribution of students by mental health status and gender
     
     - Top 5 most-used social media platforms
