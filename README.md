@@ -1,9 +1,11 @@
 # 📊 Student Social Media Addiction Dashboard (Power BI)
 
 # 📌 Project Overview
-This project is an end-to-end Power BI dashboard developed to analyze student social media addiction.
-It provides insights into how social media usage impacts students based on age, gender, relationship status, mental health, country, and social media platform usage.
-The dashboard is interactive and helps in identifying addiction trends and mental health patterns among students.
+This project is an end-to-end Power BI dashboard designed to analyze social media addiction among students.
+
+The dashboard provides interactive insights into how social media usage affects students based on age, gender, relationship status, academic level, mental health score, country, and social media platform usage.
+
+To enhance user experience, Sync Slicers are used to connect multiple dashboards, ensuring consistent filtering and seamless analysis across all report pages.
 
 
 
@@ -39,30 +41,32 @@ The project was completed through the following stages:
     -  Total Addicted Students
 
 ## Requirement
-    - What is the distribution of students by mental health status and gender?
+    - Distribution of students by mental health status and gender
     
-    - What are the top 5 most-used social media platforms among students?
+    - Top 5 most-used social media platforms
     
-    - What is the number of students with social media addiction by age and gender?
+    - Number of addicted students by age and gender
     
-    - Distribution of mental health scores across different relationship status?
+    - Mental health score distribution across relationship status
     
-    - Which five countries have the highest average addiction scores?
+    - Top 5 countries with the highest average addiction scores
     
-    - Percentage of Students by Addiction Score and Relationship Status?
+    - Percentage of students by addiction score and relationship status
+
+    - Variation of addicted students by academic level
     
-    - How does the number of addicted students vary by academic level?
+    - Average hours spent on social media per student
     
-    - What is the average Hours spent by each student?
-    
-## Interactive slicers 
+## Interactive Slicers (Synced Across Dashboards)
    - Age
      
    - Gender
      
    - Country
      
-   - Platform
+   - Social Media Platform
+
+   - Sync Slicers are implemented to ensure consistent filtering across all dashboard pages.
    
 # 📂 Dataset & Screenshots
 	- Dataset Name: Student Social Media Addiction Dataset
@@ -84,7 +88,7 @@ The project was completed through the following stages:
 
 	- WhatsApp is the most used platform
 
-	- Single students show higher addiction levels
+	- Single students show higher social media addiction levels
 
 	- Mental health varies by gender and relationship status
 
@@ -120,8 +124,10 @@ The project was completed through the following stages:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to modify.
 
 # 📧 Contact
-For any questions, feel free to reach out:
-
 VIKKU KUMAR
 
-Email: vikku.kr98@gmail.com
+📩Email: vikku.kr98@gmail.com
+
+🔗LinkedIn Profile: <a href="https://www.linkedin.com/in/vikku-kumar/">linkedin.com/in/vikku-kumar</a>
+
+Feel free to connect for collaboration and opportunities.
